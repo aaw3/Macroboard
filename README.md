@@ -2,6 +2,8 @@
 
 ## [Archived Code] Keyboard manager that can discriminate between keyboards, combine inputs from multiple keyboards in a macro, as well as supporting drop in mods as DLLs.
 
+## Depends on [KeyboardHookDLL](https://git.aaw3.dev/allen/KeyboardHookDLL)
+
 ## This code is archived, however I might release updates to it in the future
 
 - I have provided a bin release as well as the source code
