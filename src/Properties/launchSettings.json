@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MacroBoard": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
